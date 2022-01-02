@@ -6,7 +6,7 @@ I'm from Namangan, Uzbekistan. I'm a python developer.
 Read my repositories below.
 
 
-[![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)](https://github.com/kamoliddeenov/)
+[![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&theme=nightowl)](https://github.com/kamoliddeenov/)
 
 
 <!--
