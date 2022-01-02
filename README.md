@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-# About me
-I am from Namangan, Uzbekistan, python developer.
+
+I'm from Namangan, Uzbekistan. I'm a python developer.
 
 Read my repositories below..
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)
+![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)
 
 
 <!--
-**kamoliddeenov/about** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kamoliddeenov/kamoliddeenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
