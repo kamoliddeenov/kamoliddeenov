@@ -3,7 +3,7 @@
 
 I'm from Namangan, Uzbekistan. I'm a python developer.
 
-Read my repositories below.
+Read [my](https://t.me/kmuhammadali) repositories below.
 
 
 [![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)](https://github.com/kamoliddeenov/)
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is a list of programming languages ​​which I use
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddeenov&layout=compact&theme=nightowl)](https://github.com/kamoliddeenov/)
