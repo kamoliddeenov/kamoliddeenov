@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+This is a list of programming languages ​​which I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddeenov&layout=compact&theme=nightowl)](https://github.com/kamoliddeenov/)
