@@ -2,6 +2,7 @@
 
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Python+Developer;I'm+a+Digital+Economist;I'm+a+Muslim;)
+
 Read [my](https://t.me/kmuhammadali) repositories below.
 
 
