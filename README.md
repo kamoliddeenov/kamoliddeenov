@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to my Page <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 [![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=30&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
