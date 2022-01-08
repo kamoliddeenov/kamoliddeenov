@@ -1,4 +1,4 @@
-# [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali) Welcome to my Page <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov&color=blue" alt="visitor badge"/> [![GitHub followers](https://img.shields.io/github/followers/kamoliddeenov.svg?style=social&label=Followers)](https://github.com/kamoliddeenov?tab=followers) <img src="https://img.shields.io/badge/Lives-Uzbekistan-blue" />
+# [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali) Welcome to my Page <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov&color=blue" alt="visitor badge"/> <img src="https://img.shields.io/badge/Lives-Uzbekistan-blue" /> [![GitHub followers](https://img.shields.io/github/followers/kamoliddeenov.svg?style=social&label=Followers)](https://github.com/kamoliddeenov?tab=followers)
 
 
 
