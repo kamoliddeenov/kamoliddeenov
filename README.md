@@ -1,8 +1,8 @@
 # Hi there 👋
 
 
-I'm from Namangan, Uzbekistan. I'm a python developer.
-
+I'm from Namangan, Uzbekistan.
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Python+Developer;Digital+Economist;Muslim;)
 Read [my](https://t.me/kmuhammadali) repositories below.
 
 
