@@ -1,7 +1,7 @@
-# Hi there, I'm Muhammad Ali 👋
+# Hi there 👋
 
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Python+Developer;I'm+a+Digital+Economist;I'm+a+Muslim;)
+[![Muhammad Ali](https://typing-github.herokuapp.com?color=%238969A9&size=19&width=399&height=49&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://git.io/typing-svg)
 
 Read [my](https://t.me/kmuhammadali) repositories below.
 
