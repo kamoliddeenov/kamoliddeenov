@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[![Muhammad Ali](https://typing-github.herokuapp.com?color=%238969A9&size=19&width=399&height=49&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://git.io/typing-svg)
+[![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=30&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://git.io/typing-svg)
 
 Read [my](https://t.me/kmuhammadali) repositories below.
 
