@@ -1,4 +1,6 @@
-# [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali) Welcome to my Page <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov" alt="visitor badge"/>
+# [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali) Welcome to my Page <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov" alt="visitor badge"/> <a href="https://www.linkedin.com/in/kmuhammadali">
+  <img align="left" alt="Muhammad Ali" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 [![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=30&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
