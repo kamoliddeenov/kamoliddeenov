@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=30&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
 
-Read my repositories below.
+<img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> Read my repositories below.
 
 
 [![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)](https://github.com/kamoliddeenov/)
