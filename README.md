@@ -1,9 +1,9 @@
-# Welcome to my Page [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali)
+# [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">](https://t.me/kmuhammadali) Welcome to my Page <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov" alt="visitor badge"/>
 
 
 [![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=30&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
 
-Read my repositories below. <img src="https://visitor-badge.glitch.me/badge?page_id=kamoliddeenov.kamoliddeenov" alt="visitor badge"/>
+Read my repositories below.
 
 
 [![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)](https://github.com/kamoliddeenov/)
