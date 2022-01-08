@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=27&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
+[![Typing SVG](https://typing-github.herokuapp.com?font=Segoe+UI&color=%238969A9&height=28&lines=I'm+Muhammad+Ali;I'm+a+Python+Developer;I'm+from+Uzbekistan)](https://github.com/kamoliddeenov/)
 
 Read [my](https://t.me/kmuhammadali) repositories below.
 
