@@ -6,7 +6,7 @@
 
 [![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamoliddeenov&show_icons=true&theme=nightowl)](https://github.com/kamoliddeenov/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddeenov&layout=compact&theme=nightowl)](https://github.com/kamoliddeenov/) [![Statistika](https://stars.medv.io/kamoliddeenov/badges.svg)](https://stars.medv.io/kamoliddeenov/badges)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddeenov&layout=compact&theme=nightowl)](https://github.com/kamoliddeenov/)
 
 
 
